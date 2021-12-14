@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18c7e270-ffe4-4010-bd59-378cd9a94952": {
+      "ProjectGuid": "18c7e270-ffe4-4010-bd59-378cd9a94952",
+      "DisplayName": "ShippingSystem",
+      "ColorIndex": 0
+    },
+    "023d9841-83bd-495c-9568-01de8411c315": {
+      "ProjectGuid": "023d9841-83bd-495c-9568-01de8411c315",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
